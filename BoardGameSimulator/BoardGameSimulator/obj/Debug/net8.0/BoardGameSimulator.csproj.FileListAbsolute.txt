@@ -1,0 +1,14 @@
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/bin/Debug/net8.0/BoardGameSimulator
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/bin/Debug/net8.0/BoardGameSimulator.deps.json
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/bin/Debug/net8.0/BoardGameSimulator.runtimeconfig.json
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/bin/Debug/net8.0/BoardGameSimulator.dll
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/bin/Debug/net8.0/BoardGameSimulator.pdb
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/obj/Debug/net8.0/BoardGameSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/obj/Debug/net8.0/BoardGameSimulator.AssemblyInfoInputs.cache
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/obj/Debug/net8.0/BoardGameSimulator.AssemblyInfo.cs
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/obj/Debug/net8.0/BoardGameSimulator.csproj.CoreCompileInputs.cache
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/obj/Debug/net8.0/BoardGameSimulator.dll
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/obj/Debug/net8.0/refint/BoardGameSimulator.dll
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/obj/Debug/net8.0/BoardGameSimulator.pdb
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/obj/Debug/net8.0/BoardGameSimulator.genruntimeconfig.cache
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/obj/Debug/net8.0/ref/BoardGameSimulator.dll
