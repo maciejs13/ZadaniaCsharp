@@ -12,3 +12,4 @@
 /home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/obj/Debug/net8.0/BoardGameSimulator.pdb
 /home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/obj/Debug/net8.0/BoardGameSimulator.genruntimeconfig.cache
 /home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/obj/Debug/net8.0/ref/BoardGameSimulator.dll
+/home/maciejs/Dokumenty/Zadania/BoardGameSimulator/BoardGameSimulator/obj/Debug/net8.0/BoardGameSimulator.sourcelink.json
